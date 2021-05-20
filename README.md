@@ -1,6 +1,8 @@
 # SYA
  SYA - Share Your Art è una piattaforma web che consente agli utenti registrati al sito di caricare le proprie opere.
- 
+
+<img src="https://i.ibb.co/2gQSX8D/ok.png"/>
+
 ## Provala sul tuo PC
 Per provare **SYA** sul tuo pc locale devi semplicemente eseguire i comandi contenuti nel file _ddl.sql_ all'interno della tua console SQL.
 A questo punto non ti resta che modificare il file  _connection_db.sql_ a seconda della tua configurazione.
@@ -8,7 +10,7 @@ A questo punto non ti resta che modificare il file  _connection_db.sql_ a second
 ## Contribuisci
 Il tuo contributo è apprezzato qualora trovassi bug o anche se hai  _feedback_ che possano apportare miglioramenti alla piattaforma.
 
-## License
+## Licenza
 Il progetto è coperto da licenza MIT - vedi il file [LICENSE.md](https://github.com/superserio/SYA/blob/main/LICENSE) per maggiori informazioni
 
 <br><br>
